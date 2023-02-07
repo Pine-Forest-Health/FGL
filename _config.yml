@@ -1,0 +1,16 @@
+# BASIC SETTINGS
+title: Dr. Jeremy S. Johnson
+email: jeremyjo@msu.edu
+github_username: Pine-Forest-Health
+twitter_username: treelinescience
+
+header_pages:
+  - index.md
+  - CV.md
+  - Publications.md
+  - Contact.md
+  - Lab-Documents.md
+  
+# BUILD SETTINGS
+markdown: kramdown
+theme: jekyll-theme-tactile
