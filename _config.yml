@@ -1,6 +1,12 @@
-# Site settings
-title: MSU Forest Genetics Lab
-description: A place to learn more about the people, projects, and oportunities in the lab
+# BASIC SETTINGS
+title: Dr. Jeremy S. Johnson
+email: jeremyjo@msu.edu
+github_username: Pine-Forest-Health
+twitter_username: treelinescience
 
-# Build settings
+header_pages:
+  - index.md
+  
+# BUILD SETTINGS
+markdown: kramdown
 theme: jekyll-theme-tactile
