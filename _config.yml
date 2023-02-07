@@ -14,11 +14,11 @@
 #theme: jekyll-theme-tactile
 
 # Site settings
-title: Great New Blog Title
+title: MSU Forest Genetics
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Dr. Jeremy S. Johnson
+  email: jeremyjo@msu.edu
+description: "Info on lab people, projects, and oportunities"
 
 # Build settings
 remote_theme: jekyll/minima
