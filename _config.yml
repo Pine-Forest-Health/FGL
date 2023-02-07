@@ -6,4 +6,4 @@ author:
 description: "Info on lab people, projects, and oportunities"
 
 # Build settings
-theme: Midnight
+remote_theme: jekyll/Midnight
