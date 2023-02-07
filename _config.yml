@@ -3,4 +3,4 @@ title: MSU Forest Genetics Lab
 description: A place to learn more about the people, projects, and oportunities in the lab
 
 # Build settings
-remote_theme: pages-themes/tactile
+theme: jekyll-theme-tactile
