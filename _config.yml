@@ -1,9 +1,6 @@
 # Site settings
 title: MSU Forest Genetics Lab
-author:
-  name: Dr. Jeremy S. Johnson
-  email: jeremyjo@msu.edu
-description: "Info on lab people, projects, and oportunities"
+description: A place to learn more about the people, projects, and oportunities in the lab
 
 # Build settings
 remote_theme: pages-themes/tactile
